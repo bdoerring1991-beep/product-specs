@@ -1,7 +1,7 @@
 # PRD: Einstein Deal Loss Intelligence
 
 **Status:** Case Study — Portfolio  
-**Author:** [Your Name]  
+**Author:** Blake Doerring
 **Last Updated:** March 2026  
 **Document Type:** Product Requirements Document  
 **Intended Audience:** Hiring managers, product teams, Salesforce ecosystem partners
