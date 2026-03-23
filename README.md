@@ -12,6 +12,7 @@ Written to the standard I'd use on an actual product team.
 | [Amplify Verify](./specs/amplify-verify.md) | Strategy Execution | Complete |
 | [NCG AI Strategy Assessment](./specs/ncg-ai-strategy-assessment.md) | Investment Management | Complete |
 | [NCG Initiative Build Guides](./specs/ncg-initiatives/) | Investment Management | Complete |
+| [Ironclad for Law Firms](.specs/ironclad-for-law-firms.md) | Legal Tech | Complete
 ---
 
 *These are written as real working documents — success metrics, 
