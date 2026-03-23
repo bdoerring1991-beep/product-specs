@@ -8,7 +8,8 @@ Written to the standard I'd use on an actual product team.
 | Spec | Product Area | Status |
 |---|---|---|
 | [NetSuite AI Onboarding Assistant](./specs/ai-onboarding-netsuite.md) | User Onboarding | Complete |
-| [Salesforce Einstein Deal Loss Intelligence](./specs/einstein-deal-loss-intelligence.md) | Institutional Knowledge Loss | Complete |
+| [Salesforce Einstein Deal Loss Intelligence](./specs/einstein-deal-loss-intelligence.md) | Sales Operations | Complete |
+| [Amplify Now Verify](./specs/amplify-verify.md) | Strategy Execution | Complete |
 ---
 
 *These are written as real working documents — success metrics, 
