@@ -15,6 +15,7 @@ Written to the standard I'd use on an actual product team.
 | [Ironclad for Law Firms](.specs/ironclad-for-law-firms.md) | Legal Tech | Complete |
 | [Justifi Revenue Intelligence](.specs/justifi-revenue-intelligence.md) | Fintech | Complete |
 | [Toast Prime Cost Guardian](.specs/toast-prime-cost-guardian.md) | Restaurant SaaS | Complete |
+| [Actus Nutrition Ai Strategy](.specs/actus-nutrition-ai-strategy.md) | Manufacturing | Complete |
 ---
 
 *These are written as real working documents — success metrics, 
